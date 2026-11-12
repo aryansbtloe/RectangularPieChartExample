@@ -1,0 +1,53 @@
+MIT License
+
+Copyright (c) 2026 Alok Singh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Scope of this grant
+-------------------
+
+Alok Singh grants the MIT terms above only for material in this repository
+of which he is the copyright holder. That material is the documentation he
+publishes here, including README.md and this LICENSE file.
+
+The grant does not cover the following, which keep their own terms:
+
+1. Source files that begin with the notice "Copyright (c) 2013 Konstant Info
+   Private Limited. All rights reserved." Those files are:
+
+   - RectangularPieChartExample/AksStraightPieChart/AksStraightPieChart.h
+   - RectangularPieChartExample/AksStraightPieChart/AksStraightPieChart.m
+   - RectangularPieChartExample/ExampleViewController.h
+   - RectangularPieChartExample/ExampleViewController.m
+   - RectangularPieChartExample/AppDelegate.h
+   - RectangularPieChartExample/AppDelegate.m
+   - RectangularPieChartExample/main.m
+
+   This license does not replace those notices and does not grant any right
+   in those files.
+
+2. The inner-shadow drawing in -addInnerShadowEffect in
+   AksStraightPieChart.m. That method is adapted from Daniel Thorpe's
+   Stack Overflow answer (https://stackoverflow.com/a/5542116) as edited by
+   Regexident on 19 February 2012, revision 7 of that answer. Stack Overflow
+   distributes that revision under Creative Commons Attribution-ShareAlike
+   3.0 (https://creativecommons.org/licenses/by-sa/3.0/). ShareAlike applies
+   to that method and to adaptations of it. Attribution and the list of
+   changes are in README.md.
